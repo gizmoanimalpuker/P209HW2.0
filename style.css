@@ -1,28 +1,21 @@
-/* Set default font and background color */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
 }
 
-/* Center the main content */
+
 .main-content {
     max-width: 800px;
     margin: 0 auto;
 }
 
-/* Style headings */
+
 h1, h2, h3 {
     font-weight: bold;
     color: #333;
 }
 
-
-
-/* Style links */
-a {
-    color: #0077cc;
-    text-decoration: none;
-}
 
 a:hover {
     text-decoration: underline;
